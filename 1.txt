@@ -1,0 +1,100 @@
+PROYECTO: SISTEMA INTEGRADO DE VENTAS E INVENTARIO
+PUesta en marcha del proyecto
+
+Empresa: Ferretería S.A.
+Proyecto: Sistema Integrado de Ventas e Inventario
+Duración estimada: 4 meses
+Objetivo: Digitalizar y centralizar las operaciones de ventas, caja, inventario y compras.
+
+
+
+TEMA 1: ESPECIFICACIÓN DE REQUISITOS
+
+En esta primera etapa se determina qué necesita la empresa y qué debe hacer el sistema.
+
+
+
+1.1 Problema identificado
+
+Actualmente la empresa tiene:
+
+3 tiendas: Surco, San Miguel y Ate.
+1 almacén central en Lurín.
+28 trabajadores.
+Información registrada principalmente en Excel y cuadernos.
+
+Esto ocasiona:
+
+Errores en el control de stock.
+Ventas de productos que realmente no están disponibles.
+Dificultad para conocer las ventas de cada tienda.
+Cierres de caja que pueden demorar hasta 2 horas.
+Reportes elaborados manualmente.
+
+
+
+1.2 Requisitos funcionales
+
+El sistema deberá permitir:
+
+Ventas y caja
+
+Registrar ventas.
+Emitir boletas y facturas electrónicas mediante integración con SUNAT.
+Registrar diferentes medios de pago.
+Aplicar descuentos.
+Realizar cierres y arqueos de caja.
+
+Inventario
+
+Registrar entradas y salidas.
+Controlar stock por tienda.
+Generar Kardex.
+Alertar cuando un producto llegue al stock mínimo.
+Realizar transferencias entre tiendas.
+
+Compras
+
+Registrar proveedores.
+Registrar compras.
+Detectar productos que necesitan reposición.
+Generar propuestas de órdenes de compra.
+
+Reportes
+
+Ventas por tienda.
+Ventas por vendedor.
+Ventas por producto.
+Productos de mayor rotación.
+Margen de ganancia.
+Reportes de inventario y caja.
+
+Administración
+
+Crear usuarios.
+Asignar roles y permisos.
+Gestionar productos.
+Gestionar precios y promociones.
+
+
+
+1.3 Criterios de calidad del sistema
+
+El sistema deberá:
+
+Tener control de acceso mediante usuario y contraseña.
+Mantener respaldos de información.
+Responder rápidamente a las operaciones.
+Registrar las acciones importantes de los usuarios.
+Permitir funcionamiento temporal sin Internet y sincronización posterior.
+Proteger la información de la empresa.
+
+
+
+1.4 Alcance
+
+Incluye: ventas, caja, inventario, compras, reportes y administración.
+
+No incluye: contabilidad completa, planillas ni e-commerce.
+
+Entregable de la fase: Documento de Especificación de Requisitos aprobado por gerencia.

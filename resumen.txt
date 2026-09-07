@@ -1,0 +1,17 @@
+Relación directa con los temas propuestos:
+
+Tema 1 Especificación de requisitos	
+Aplicación:     Se determina qué necesita la ferretería	
+Resultado:      Documento de requisitos
+
+Tema 2 Fase de análisis	
+Aplicación:     Se estudian procesos, actores, problemas y soluciones	
+Resultado:      Análisis y diagramas
+
+Tema 3 Fase de diseño y desarrollo	
+Aplicación:     Se diseña y programa el sistema	
+Resultado:      Sistema funcional
+
+Tema 4 Fase de pruebas e implementación	
+Aplicación:     Se prueba, capacita y pone en producción	
+Resultado:      Sistema implementado

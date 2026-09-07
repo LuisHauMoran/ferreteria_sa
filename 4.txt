@@ -1,0 +1,82 @@
+TEMA 4: FASE DE PRUEBAS E IMPLEMENTACIÓN
+
+Aquí se verifica que el sistema funcione correctamente antes de ponerlo en producción.
+
+
+
+4.1 Pruebas
+
+Se realizan:
+
+Pruebas funcionales
+
+Registrar una venta.
+Aplicar un descuento.
+Emitir una boleta.
+Realizar un cierre de caja.
+
+Pruebas de inventario
+
+Registrar entrada.
+Registrar salida.
+Transferir productos.
+Verificar actualización del stock.
+
+Pruebas de integración
+
+Ventas - Inventario.
+Ventas - Caja.
+Compras - Inventario.
+Sistema - SUNAT.
+
+Pruebas de seguridad
+
+Verificar permisos.
+Probar accesos no autorizados.
+Validar usuarios y roles.
+
+
+
+
+4.2 Migración de datos
+
+Antes de la puesta en marcha:
+
+Excel actual - Limpieza - Validación - Migración de prueba - Corrección - Migración definitiva
+
+
+
+4.3 Implementación
+
+Se propone una implementación progresiva:
+
+Semana 1-2:
+Tienda Surco — prueba piloto
+
+Se capacita al personal y se monitorea el funcionamiento.
+
+Semana 3:
+Tienda San Miguel
+
+Semana 4:
+Tienda Ate
+
+Finalmente, las tres tiendas quedan conectadas con el almacén central de Lurín.
+
+
+
+4.4 Capacitación
+
+Se capacita a:
+
+Vendedores.
+Cajeros.
+Almaceneros.
+Administradores.
+Gerencia.
+4.5 Puesta en marcha
+
+Una vez validadas las pruebas: El sistema pasa de ambiente de pruebas a ambiente de producción 
+y comienza a utilizarse oficialmente en las operaciones de la empresa.
+
+Entregable: Sistema implementado, usuarios capacitados y acta de puesta en marcha.
